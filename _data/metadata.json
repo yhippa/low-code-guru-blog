@@ -1,21 +1,21 @@
 {
   "title": "Low-Code Guru",
-  "url": "https://example.com/",
+  "url": "https://low-code.guru/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "I am writing about my experiences as an software engineer turned low-code archtiect.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about my experiences as an software engineer turned low-code archtiect.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://low-code.guru/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://low-code.guru/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Richard Yhip",
+    "email": "richard.yhip@gmail.com",
+    "url": "https://low-code.guru/about-me/"
   }
 }
